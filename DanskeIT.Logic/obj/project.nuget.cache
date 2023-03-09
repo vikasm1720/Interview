@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPCOyITdnXjNtdf2sFdfWDdv2ettuVqQiZJWpScTWur48/3lHzEJ9/AZTWls+XWuRp89rheWIUIJdHwhKw0I6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikas\\source\\repos\\DanskeIT\\danske\\DanskeIT.Logic\\DanskeIT.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
